@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![a paper robot](http://nalulin.com/wp-content/uploads/2014/10/2014-10-22-11.42.58.jpg)
